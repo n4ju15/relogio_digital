@@ -5,7 +5,7 @@ Projeto desenvolvido em HTML,CSS e Java Script. O site desenvolvido é um relóg
 🔗 [Click here to access](https://n4ju15.github.io/relogio_digital/)
 
 <div align="center">
-<img src="./assets/.gif">
+<img src="./assets/relogio.gif">
 </div>
 
 ## Tecnologias
